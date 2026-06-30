@@ -1,0 +1,8 @@
+{
+  "name": "线性拟合数据生成器",
+  "description": "根据自定义自变量区间、数据规模与目标R²决定系数，精确生成二维一元线性正相关拟合数据集的专业分析工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
